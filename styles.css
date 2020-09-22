@@ -1,0 +1,194 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Spartan", sans-serif;
+}
+h1 {
+  font-weight: 700;
+}
+.pattern-bottom {
+  position: absolute;
+  right: 30px;
+  top: 90px;
+}
+.patter-top {
+  position: absolute;
+}
+.heading {
+  width: 40%;
+  position: absolute;
+  top: 50px;
+  left: 120px;
+  font-size: 30px;
+  color: hsl(300, 43%, 22%);
+}
+.sub-heading {
+  font-size: 17px;
+  width: 35%;
+  position: relative;
+  left: 120px;
+  bottom: 70px;
+  line-height: 1.8;
+  font-weight: 500;
+  color: hsl(303, 10%, 53%);
+}
+.star {
+  float: left;
+  margin-right: 50px;
+  position: relative;
+  top: 30%;
+  left: 20px;
+}
+
+#rating-1 {
+  border-radius: 5px;
+  background: #f7f2f8;
+  height: 50px;
+  width: 420px;
+  position: absolute;
+  right: 250px;
+  bottom: 620px;
+}
+#rating-2 {
+  border-radius: 5px;
+  background: #f7f2f8;
+  height: 50px;
+  width: 420px;
+  position: absolute;
+  right: 200px;
+  bottom: 550px;
+}
+#rating-3 {
+  border-radius: 5px;
+  background: #f7f2f8;
+  height: 50px;
+  width: 420px;
+  position: absolute;
+  right: 150px;
+  bottom: 480px;
+}
+.buyer-1 {
+  position: relative;
+  top: 20px;
+  left: 100px;
+}
+.buyer1-img {
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+  width: 50px;
+  position: absolute;
+  top: 25px;
+  left: 40px;
+}
+.customer-review-1 {
+  margin: 20px;
+  line-height: 1.5;
+  margin-top: 40px;
+  position: relative;
+  top: 20px;
+  font-size: 13.8px;
+  color: hsl(300, 24%, 96%);
+  font-weight: 400;
+}
+#container-1 {
+  border-radius: 10px;
+  border-width: 20px;
+  background: hsl(300, 43%, 22%);
+  width: 350px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  position: absolute;
+  right: 100px;
+  top: 500px;
+}
+.buyer-2 {
+  position: relative;
+  top: 20px;
+  left: 100px;
+}
+.buyer2-img {
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+  width: 50px;
+  position: absolute;
+  top: 25px;
+  left: 40px;
+}
+.customer-review-2 {
+  margin: 20px;
+  line-height: 1.5;
+  margin-top: 40px;
+  position: relative;
+  top: 20px;
+  font-size: 13.8px;
+  color: hsl(300, 24%, 96%);
+  font-weight: 400;
+}
+#container-2 {
+  border-radius: 10px;
+  border-width: 20px;
+  background: hsl(300, 43%, 22%);
+  width: 350px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  position: absolute;
+  left: 580px;
+  bottom: 50px;
+}
+.buyer-3 {
+  position: relative;
+  top: 20px;
+  left: 100px;
+}
+.buyer3-img {
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+  width: 50px;
+  position: absolute;
+  top: 25px;
+  left: 40px;
+}
+.customer-review-3 {
+  margin: 20px;
+  line-height: 1.5;
+  margin-top: 40px;
+  position: relative;
+  top: 20px;
+  font-size: 13.8px;
+  color: hsl(300, 24%, 96%);
+  font-weight: 400;
+}
+#container-3 {
+  border-radius: 10px;
+  border-width: 20px;
+  background: hsl(300, 43%, 22%);
+  width: 350px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  position: absolute;
+  left: 120px;
+  bottom: 70px;
+}
+h2 {
+  line-height: 0%;
+  font-weight: 500;
+  color: hsl(300, 24%, 96%);
+  font-size: 15px;
+}
+h3 {
+  line-height: 1;
+  font-weight: 50;
+  color: hsl(333, 80%, 67%);
+  font-size: 14px;
+}
+p {
+}
